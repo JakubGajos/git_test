@@ -1,4 +1,3 @@
-package com.sevenet.stronaposrednia;
 
 import java.util.*;
 import java.util.stream.Collectors;
